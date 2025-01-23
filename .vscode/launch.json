@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "AWTExample2",
+            "request": "launch",
+            "mainClass": "AWTExample2",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "URLConnectionExample",
+            "request": "launch",
+            "mainClass": "URLConnectionExample",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "InetDemo",
+            "request": "launch",
+            "mainClass": "InetDemo",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "HttpURLConnectionDemo",
+            "request": "launch",
+            "mainClass": "HttpURLConnectionDemo",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "AWTExample1",
+            "request": "launch",
+            "mainClass": "AWTExample1",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "URLDemo",
+            "request": "launch",
+            "mainClass": "URLDemo",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Employees",
+            "request": "launch",
+            "mainClass": "Employees",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "MyClient",
+            "request": "launch",
+            "mainClass": "MyClient",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "MyReactangle",
+            "request": "launch",
+            "mainClass": "MyReactangle",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "MyServer",
+            "request": "launch",
+            "mainClass": "MyServer",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "OddorEven",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "Student5",
+            "request": "launch",
+            "mainClass": "Student5",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestAbstraction1",
+            "request": "launch",
+            "mainClass": "TestAbstraction1",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestAccount",
+            "request": "launch",
+            "mainClass": "TestAccount",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestAnonymousArray",
+            "request": "launch",
+            "mainClass": "TestAnonymousArray",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestInheritance",
+            "request": "launch",
+            "mainClass": "TestInheritance",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestOverloading1",
+            "request": "launch",
+            "mainClass": "TestOverloading1",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TestThrow",
+            "request": "launch",
+            "mainClass": "TestThrow",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "Testoverloading",
+            "request": "launch",
+            "mainClass": "Testoverloading",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchExample1",
+            "request": "launch",
+            "mainClass": "TryCatchExample1",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "elemtinarray",
+            "request": "launch",
+            "mainClass": "elemtinarray",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "mypack.B",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "natural",
+            "request": "launch",
+            "mainClass": "natural",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "reversepramid",
+            "request": "launch",
+            "mainClass": "reversepramid",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "sam",
+            "request": "launch",
+            "mainClass": "sam",
+            "projectName": "joe_759cfe08"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "joe_759cfe08"
+        }
+    ]
+}
